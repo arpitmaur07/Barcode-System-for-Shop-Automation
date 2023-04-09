@@ -12,7 +12,9 @@ With this system, users can easily show all products present in the MySQL databa
 - pyzbar <br> 
 - mysql-connector-python <br> 
 
-<p align="center"> You can install these modules using pip by running the following command:-</p> 
+<br>
+
+<p > You can install these modules using pip by running the following command:-</p> 
 <code align="center" > pip install opencv-python mysql-connector-python numpy pyzbar</code> <br>
 <p>Once you have installed these modules and set up a MySQL database with the relevant product details, you can clone the repository and run the <code>main.py</code> file to start using the barcode system.</p>
 
@@ -24,6 +26,7 @@ With this system, users can easily show all products present in the MySQL databa
 - Delete product by scanning its barcode. <br> 
 - Update product details by its barcode. <br> 
 
+<br>
 <p>Depending on your selection, the system will ask you to enter additional information or scan a barcode. The system will then perform the corresponding action and display the relevant product details.</p>
 
 
